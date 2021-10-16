@@ -6,6 +6,8 @@ public class Vetor {
 
 		Scanner teclado = new Scanner(System.in);
 
+		//Testando git
+
 		int vetor[] = new int[5];
 		
 		//int vetor2[] = {4, 3, 5, 3, 6};
